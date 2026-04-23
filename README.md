@@ -22,3 +22,5 @@ Tested with multiple clients and handled concurrent communication efficiently.
 Future Improvements:
 - Multi-room chat support
 - File transfer
+Requirements:
+- Python 3.x
